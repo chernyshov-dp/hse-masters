@@ -12,7 +12,8 @@ The repository of some homeworks and other materials (for almost all disciplines
 8) [Machine Learning for a Model Construction](https://github.com/chernyshov-dp/hse-masters/tree/main/ml4mdlcnst)
 9) Supercomputer workshop - TBA
 10) Stochastic Methods for Engineering Applications - NA[^1]
-11) [Other](https://github.com/chernyshov-dp/hse-masters/tree/main/other)
+11) Deep Learning - TBA
+12) [Other](https://github.com/chernyshov-dp/hse-masters/tree/main/other)
 
 
 [^1]: Data is unavailable due to the class format or other reasons.
